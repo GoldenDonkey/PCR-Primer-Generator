@@ -1,0 +1,1 @@
+This is a program that, given a fasta file containing a large enough DNA sequence and a position of DNA sub-sequence, will find the sequence of 2 primers that would allow the replication of the target sub-sequence via PCR reaction.
